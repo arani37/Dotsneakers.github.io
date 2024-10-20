@@ -1,7 +1,3 @@
-Here's a sample `README.md` for the project, based on the URL provided:
-
----
-
 # DotSneakers
 
 Welcome to **DotSneakers**! This is a modern, responsive web project that showcases a stylish sneaker store, built to demonstrate web design and development skills. You can explore the live demo [here](https://arani37.github.io/Dotsneakers.github.io/).
@@ -16,8 +12,6 @@ Welcome to **DotSneakers**! This is a modern, responsive web project that showca
   - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
