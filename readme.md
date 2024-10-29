@@ -8,8 +8,8 @@ Welcome to **DotSneakers**! This is a modern, responsive web project that showca
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Usage](#usage)
+- [Installation](#installation)
+- [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 
