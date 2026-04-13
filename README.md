@@ -49,7 +49,8 @@ Dotsneakers/
 
 (Add screenshots here later)
 
----
+-![Home Page](home.png)
+![Products Page](products.png)--
 
 ## 🔗 Live Demo
 
