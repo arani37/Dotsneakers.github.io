@@ -47,10 +47,11 @@ Dotsneakers/
 
 ## 📸 Screenshots
 
-(Add screenshots here later)
 
--![Home Page](home.png)
-![Products Page](products.png)--
+![Home Page](home.png)
+![Products Page](products.png)
+![Features Section](features.png)
+![Billing Section](billing.png)
 
 ## 🔗 Live Demo
 
